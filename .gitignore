@@ -1,0 +1,6 @@
+notebooks/
+pyproject.toml
+.env
+application_logs.log
+etl_pipeline.log
+
