@@ -1,0 +1,11 @@
+[theme]
+base="dark"
+primaryColor="skyBlue"
+secondaryBackgroundColor="black"
+borderColor="purple"
+
+[theme.sidebar]
+backgroundColor="white"
+secondaryBackgroundColor="skyBlue"
+textColor="purple"
+baseRadius="full"
